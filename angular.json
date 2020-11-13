@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LOGINAPP"
+    }
+  },
+  "defaultProject": "LOGINAPP",
+  "cli": {
+    "analytics": false
+  }
 }
